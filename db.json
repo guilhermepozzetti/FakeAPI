@@ -1,0 +1,53 @@
+{
+  "equipamentos": [
+    {       "id":1,
+            "Foto": "https://www.climax.com.tw/new/image/irp-16-200.png",
+            "Descricao": "SENSOR IVpP SEM FIO",
+            "Fabricante": "CLIMAX",
+            "Modelo": "CMX-IRP-16SL-F1-433",
+            "Quantidade": 0
+    },
+    {       "id":2,
+            "Foto": "https://www.climax.com.tw/new/image/irp-16-200.png",
+            "Descricao": "SENSOR IVP SEMMMMMM FIO",
+            "Fabricante": "CLIMAX",
+            "Modelo": "CMX-IRP-16SL-F1-433",
+            "Quantidade": 0
+    },
+    {       "id":3,
+            "Foto": "https://www.climax.com.tw/new/image/irp-16-200.png",
+            "Descricao": "SENSOR IVP SEM FIO",
+            "Fabricante": "CLIMAX",
+            "Modelo": "CMX-IRP-16SL-F1-433",
+            "Quantidade": 0
+    }
+  ],
+"clients": [
+        {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  }, ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  } 
+}

@@ -22,7 +22,7 @@
             "Quantidade": 0
     }
   ],
-  "clients" = [
+"clients: [
         {
             "Name": "Otto Clay",
             "Age": 61,
